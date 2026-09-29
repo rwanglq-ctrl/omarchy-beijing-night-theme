@@ -16,6 +16,8 @@ omarchy theme install https://github.com/rwanglq-ctrl/omarchy-beijing-night-them
 2. [故宫角楼蓝调时刻](https://unsplash.com/photos/a-large-building-sitting-on-top-of-a-lake-eXp5ohIZpQ4) — Dragon Pan，Unsplash License（Unsplash）
 3. [Tiananmen 2016 April night (19-00).jpg](https://commons.wikimedia.org/wiki/File:Tiananmen_2016_April_night_%2819-00%29.jpg) — Morio，CC BY-SA 4.0（Wikimedia Commons）；已裁切、缩放
 4. [长城日出](https://unsplash.com/photos/great-wall-of-china-at-sunrise-with-rolling-hills-yke8EMYRius) — Sammy Wong，Unsplash License（Unsplash）
+5. [大栅栏夜市](https://unsplash.com/photos/ornate-archway-illuminates-a-busy-street-at-night-qMaexb9i3GI) — Zhu Qiankun，Unsplash License（Unsplash）
+6. [冰糖葫芦夜摊](https://unsplash.com/photos/a-person-standing-in-front-of-a-display-of-food-7GO2sU5uSEA) — Christian Lue，Unsplash License（Unsplash）
 
 ## 许可
 
