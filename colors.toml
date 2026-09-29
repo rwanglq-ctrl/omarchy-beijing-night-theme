@@ -1,0 +1,31 @@
+# 北京·夜 Beijing Night — 夜色为底、灰墙为字、中国红为印、天坛蓝点缀。
+mode = "dark"
+accent = "#E0574A"
+selection = "#303540"
+muted = "#63676F"
+
+background = "#16181D"
+dark_background = "#0F1114"
+darker_background = "#090A0C"
+lighter_background = "#23262E"
+
+foreground = "#E4E2DD"
+dark_foreground = "#8E9096"
+light_foreground = "#C2C2BE"
+bright_foreground = "#E9E7E3"
+
+red = "#E0574A"
+yellow = "#D9B25A"
+orange = "#DC8A4E"
+green = "#7FBF95"
+cyan = "#6FB6C6"
+blue = "#7FA3DA"
+magenta = "#C98AC0"
+brown = "#B3967A"
+
+bright_red = "#E6776D"
+bright_yellow = "#E1C17B"
+bright_green = "#9ACDAC"
+bright_cyan = "#8CC5D2"
+bright_blue = "#9FBAE3"
+bright_magenta = "#D6A6CF"
